@@ -1,1 +1,1 @@
-0x06-python-classes_basic
+0x06-python-classes
